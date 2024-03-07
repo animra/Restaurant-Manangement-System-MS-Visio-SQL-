@@ -1,2 +1,2 @@
-# Restaurant-Manangement-System-MS-Visio-SQL
-Find the attached report for deatiled steps
+# Restaurant Manangement System
+Find the attached report for deatiled steps. We have used MS Access, MySQL, and Visio for this project.
